@@ -1,0 +1,66 @@
+{
+     "vechileType": [
+       {
+         "id": "1",
+         "image": "assets/animation/draweranimation.gif",
+         "vechiletype": "Bike",
+         "killometterrupe": "350"
+       },
+       {
+         "id": "2",
+         "image": "assets/animation/rikshawanimation.gif",
+         "vechiletype": "Rikshaw",
+         "killometterrupe": "220"
+       },
+       {
+         "id": "3",
+         "image": "assets/animation/car.gif",
+         "vechiletype": "car",
+         "killometterrupe": "600"
+       },
+       {
+         "id": "4",
+         "image": "assets/animation/minianimation.gif",
+         "vechiletype": "mini car",
+         "killometterrupe": "400"
+       },
+       {
+         "id": "5",
+         "image": "assets/animation/bikeanimation.gif",
+         "vechiletype": "truck",
+         "killometterrupe": "450"
+       }
+     ],
+     "PreviousRide": [
+       {
+         "userId": "1",
+         "totalFear": "200",
+         "to": "johar town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "userId": "1",
+         "totalFear": "200",
+         "to": "johar town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "userId": "1",
+         "totalFear": "200",
+         "to": "johar town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "userId": "1",
+         "totalFear": "200",
+         "to": "johar town",
+         "from": "Thokar niaz baig"
+       },
+       {
+         "userId": "1",
+         "totalFear": "200",
+         "to": "johar town",
+         "from": "Thokar niaz baig"
+       }
+     ]
+   }
